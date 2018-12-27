@@ -1,0 +1,10 @@
+D:\Projetos_Softwares\Killer\Killer\Killer\bin\Debug\Killer.exe.config
+D:\Projetos_Softwares\Killer\Killer\Killer\bin\Debug\Killer.exe
+D:\Projetos_Softwares\Killer\Killer\Killer\bin\Debug\Killer.pdb
+D:\Projetos_Softwares\Killer\Killer\Killer\obj\Debug\Killer.csprojResolveAssemblyReference.cache
+D:\Projetos_Softwares\Killer\Killer\Killer\obj\Debug\Killer.frmMain.resources
+D:\Projetos_Softwares\Killer\Killer\Killer\obj\Debug\Killer.Properties.Resources.resources
+D:\Projetos_Softwares\Killer\Killer\Killer\obj\Debug\Killer.csproj.GenerateResource.cache
+D:\Projetos_Softwares\Killer\Killer\Killer\obj\Debug\Killer.csproj.CoreCompileInputs.cache
+D:\Projetos_Softwares\Killer\Killer\Killer\obj\Debug\Killer.exe
+D:\Projetos_Softwares\Killer\Killer\Killer\obj\Debug\Killer.pdb
